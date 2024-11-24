@@ -6,7 +6,7 @@ local fask = task
 local Fluent = loadstring(game:HttpGet("https://github.com/dawid-scripts/Fluent/releases/latest/download/main.lua"))()
 
 local Window = Fluent:CreateWindow({
-	Title = "Andepzai Hub | Free script",
+	Title = "JiaHub | Free script",
 	SubTitle = "",
 	TabWidth = 160,
 	Size = UDim2.fromOffset(600, 375),
@@ -129,7 +129,7 @@ elseif game.PlaceId == 4442272183 then
 elseif game.PlaceId == 7449423635 then
 	AnDepZai3 = true
 else
-	game:GetService("Players").LocalPlayer:Kick(" Con Đĩ Mẹ Mày")
+	game:GetService("Players").LocalPlayer:Kick("")
 end
 hookfunction(require(game:GetService("ReplicatedStorage").Effect.Container.Death), function()
 end)
@@ -5039,3 +5039,48 @@ local Final = {
 	Headers = Headers
 }
 Request(Final)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
